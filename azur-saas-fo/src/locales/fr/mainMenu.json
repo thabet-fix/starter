@@ -1,0 +1,19 @@
+{
+  "contractList": "Liste des documents",
+  "SignContract": "Signer un document",
+  "SendContract": "Envoyer un document",
+  "Templates": "Templates",
+  "Settings": "Paramètres",
+  "UsersManagement": "Gestion des utilisateurs",
+  "CompanyManagement": "Gestion de la société",
+  "companiesManagement": "Gestion des sociétés",
+  "Subscriptions": "Abonnements",
+  "LanguagesManagement": "Gestion des langues",
+  "PacksManagement": "Gestion des Packs",
+  "ContextManagement": "Gestion des cadres",
+  "Configuration": "Configuration",
+  "Expiration": "Expire le ",
+  "Manage": "Gérer",
+  "SignedDocuments": "Documents signés",
+  "Billing": "Facturation"
+}

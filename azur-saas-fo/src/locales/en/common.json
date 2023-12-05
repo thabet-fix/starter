@@ -1,0 +1,30 @@
+{
+  "languages": {
+    "en": "English",
+    "FR": "French",
+    "IT": "Italien",
+    "BG": "Bulgare",
+    "DE": "Allemand",
+    "ES": "Espagnol"
+  },
+  "actions": {
+    "activate": "Activate",
+    "cancel": "Cancel",
+    "deactivate": "Deactivate",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "send": "Send",
+    "doSignature": "Redo the signature"
+  },
+  "use": {
+    "commissionArgrement": "Commission argrement",
+    "merchandiseTransfer": "Merchandise transfer contract",
+    "language": "language",
+    "required": "this field is required",
+    "goBack": "Go back",
+    "toastError": "Unauthorized! Page token has been expired",
+    "errorOccurred": "An error has occurred",
+    "clickToDownload": "Click to download"
+  }
+}
